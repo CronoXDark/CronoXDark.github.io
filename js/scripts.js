@@ -80,7 +80,7 @@
 	--------------------*/
 	$('#video-bg').YTPlayer({
 		fitToBackground: false,
-		videoId: 'tyZga62QaqM'//Set Your Youtube Video ID
+		videoId: 'U-6wqFE79Gc'//Set Your Youtube Video ID
 	});
 
 
